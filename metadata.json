@@ -1,0 +1,5 @@
+{
+  "name": "Fortune AI Trading System",
+  "description": "A unified AI-powered trading intelligence platform combining market data, ML models, and portfolio optimization. It integrates with Fyers, NSE India, Screener, and Yahoo Finance APIs and operates in both online (PostgreSQL) and offline (SQLite for local cache) modes. The system features an auto-ML tuner, explainable AI (XAI) for model transparency, and provides tactical decision guidance. It leverages the Gemini API for advanced project scaffolding and trading strategy generation.",
+  "requestFramePermissions": []
+}

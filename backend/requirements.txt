@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+pandas-ta
+python-dotenv
+SQLAlchemy
+httpx
+requests
+google-generativeai
+fyers-apiv3
+pydantic-settings
